@@ -3,7 +3,7 @@
 
 Projet: Programmation
 
-Année: 2022-2023
+Année 2022-2023 : Université Grenoble alpes
 
 Le principe du jeu "le canyon de la mort" est: 
 un.e cycliste (représenté.e par un '^' en bas de la fenêtre d’un terminal) doit
