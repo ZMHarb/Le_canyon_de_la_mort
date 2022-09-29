@@ -9,14 +9,6 @@ Le principe du jeu "le canyon de la mort" est:
 un.e cycliste (représenté.e par un '^' en bas de la fenêtre d’un terminal) doit
 descendre un canyon sans en heurter les bords (représentés par des '*')
 
-
-
-## Authors
-
-- [MAFADI Ziad](https://www.github.com/ZMHarb)
-- [MAKKE Issam](https://www.github.com/issammakke)
-
-
 ## Installation
 
 ```bash
