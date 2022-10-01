@@ -8,6 +8,7 @@ Année 2022-2023 : Université Grenoble alpes
 Le principe du jeu "le canyon de la mort" est: 
 un.e cycliste (représenté.e par un '^' en bas de la fenêtre d’un terminal) doit
 descendre un canyon sans en heurter les bords (représentés par des '*')
+Ce jeu est réalisé en utilisant "ncurses", ça fonctionne seulement sous UNIX.
 
 ## Auhtors
 - [MAFADI Ziad](https://github.com/ZMHarb)
