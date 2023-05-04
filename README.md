@@ -12,7 +12,7 @@ Ce jeu est réalisé en utilisant "ncurses", ça fonctionne seulement sous UNIX.
 
 ## Auhtors
 - [MAFADI Ziad](https://github.com/ZMHarb)
-- [MAKKE Issam](https://github.com/issammakke)
+- [MAKKE Issam](https://github.com/MakkeIssam)
 
 ## Installation
 
